@@ -1,0 +1,22 @@
+{
+  "wheel_id": 777,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-107",
+  "project": "mortgage-brokers-wollongong-before-you-start-9609a126a0c375a6ef",
+  "parent_t1_ref": "homeloanbrokerwollongong-153",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage brokers wollongong before you start",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-wollongong-before-you-start-9609a126a0c375a6ef/",
+  "tier": "T2",
+  "writeback_nonce": "5857dd0a5b8ad2dc",
+  "links": [
+    {
+      "target_url": "http://mortgage-brokers-wollongong-myths-62d48fe5cf92a2799d5647c4431e0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://mortgage-brokers-wollongong-myths-62d48fe5cf92a2799d5647c4431e0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
